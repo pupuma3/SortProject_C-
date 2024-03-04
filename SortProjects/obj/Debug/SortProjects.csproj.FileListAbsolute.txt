@@ -1,0 +1,7 @@
+D:\2024\Sort\C#\SortProjects\SortProjects\bin\Debug\SortProjects.exe.config
+D:\2024\Sort\C#\SortProjects\SortProjects\bin\Debug\SortProjects.exe
+D:\2024\Sort\C#\SortProjects\SortProjects\bin\Debug\SortProjects.pdb
+D:\2024\Sort\C#\SortProjects\SortProjects\obj\Debug\SortProjects.csproj.AssemblyReference.cache
+D:\2024\Sort\C#\SortProjects\SortProjects\obj\Debug\SortProjects.csproj.CoreCompileInputs.cache
+D:\2024\Sort\C#\SortProjects\SortProjects\obj\Debug\SortProjects.exe
+D:\2024\Sort\C#\SortProjects\SortProjects\obj\Debug\SortProjects.pdb
